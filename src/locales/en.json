@@ -1,0 +1,24 @@
+{
+    "header": {
+        "title": "Lover.Coffee"
+    },
+    "footer": {
+        "title": "Copyright © 2025 Lover.Coffee, inc All rights reserved.",
+        "description": "Developed by Jonatan Acuña (u20211b995)"
+    },
+    "coffee": {
+        "title": "Coffee Drinks"  
+    },
+    "coffeeCard": {
+        "buyLink": "Search Lovers.Coffee Products",
+        "type": "Type",
+        "ingredients": "Ingredients",
+        "totalSales": "Total sales",
+        "price": "Price",
+        "noIngredients": "No ingredients available",
+        "aria": {
+            "ingredients": "Ingredients list",
+            "noIngredients": "No ingredients available"
+        }
+    }
+}
